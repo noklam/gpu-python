@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/gpu-puzzles-with-triton/gpu-puzzles-triton.html",
+      "/posts/gpu-puzzles-with-triton/index.html",
       "/posts/welcome/index.html"
     ]
   }

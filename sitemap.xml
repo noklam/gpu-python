@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://noklam.github.io/gpu-python/about.html</loc>
-    <lastmod>2025-04-15T23:11:26.227Z</lastmod>
+    <lastmod>2025-04-15T23:29:16.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noklam.github.io/gpu-python/internal/A_Practitioners_Guide_to_Triton.html</loc>
+    <lastmod>2025-04-15T23:29:15.741Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noklam.github.io/gpu-python/posts/gpu-puzzles-with-triton/index.html</loc>
+    <lastmod>2025-04-15T23:29:14.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://noklam.github.io/gpu-python/posts/gpu-puzzles-with-triton/gpu-puzzles-triton.html</loc>
+    <lastmod>2025-04-15T23:29:14.010Z</lastmod>
   </url>
   <url>
     <loc>https://noklam.github.io/gpu-python/posts/welcome/index.html</loc>
-    <lastmod>2025-04-15T23:11:25.540Z</lastmod>
+    <lastmod>2025-04-15T23:29:14.670Z</lastmod>
   </url>
   <url>
     <loc>https://noklam.github.io/gpu-python/index.html</loc>
-    <lastmod>2025-04-15T23:11:25.918Z</lastmod>
+    <lastmod>2025-04-15T23:29:16.256Z</lastmod>
   </url>
 </urlset>
