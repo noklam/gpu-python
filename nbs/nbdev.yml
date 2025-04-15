@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "gpu-python"
-  site-url: "https://noklam.github.io/gpu-python"
-  description: "Resource for learning GPU Programming in Python"
-  repo-branch: 
-  repo-url: "https://github.com/noklam/gpu-python"
